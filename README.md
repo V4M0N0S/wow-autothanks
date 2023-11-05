@@ -1,5 +1,7 @@
-# [World of Wacraft Addon] AutoThanks!
-This is a simple little addon that should take away the most tedious task in WoW: Saying thank you when you get revived.
+# [World of Warcraft Addon] AutoThanks!
+This is a simple little addon that should take away the most tedious task in WoW: 
+
+Saying thank you when you get revived.
 
 ## Install via Curseforge
 Just install via Curseforge Client: https://www.curseforge.com/wow/addons/autothanks
