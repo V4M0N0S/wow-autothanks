@@ -1,10 +1,10 @@
 ## Title: |cffffb347[V]|r AutoThanks! |cffffb347by V4M0N0S|r
 ## Notes: Send automatically "thank you!" if someone revived you.
 ## X-Website: https://github.com/V4M0N0S/wow-autothanks
-## Interface: 100107
+## Interface: 100200
 ## LoadOnDemand: 0
 ##
-## Version: 1.2.1
+## Version: 2.0.0
 ## Author: V4M0N0S
 ## IconTexture: Interface\Icons\achievement_reputation_08
 
