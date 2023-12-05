@@ -4,8 +4,9 @@
 ## Interface: 100200
 ## LoadOnDemand: 0
 ##
-## Version: 2.0.0
+## Version: 2.0.1
 ## Author: V4M0N0S
 ## IconTexture: Interface\Icons\achievement_reputation_08
 
+addon.lua
 AutoThanks.lua
